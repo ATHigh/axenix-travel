@@ -10,7 +10,7 @@ from streamlit_folium import folium_static
 import pandas as pd
 
 # API ключ (замените на свой)
-API_KEY = "267dd246-06db-4330-9749-832dfd093b20"
+API_KEY = ""
 BASE_URL = "https://api.rasp.yandex.net/v3.0"
 ALL_TRANSPORT_TYPES = "plane,train,bus"
 
